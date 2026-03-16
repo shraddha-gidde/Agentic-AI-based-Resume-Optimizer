@@ -15,7 +15,7 @@ Most job seekers send the same resume to every application. ATS filters reject i
 
 ## 🔗 Live Demo
 
-**Try it here → [agentic-ai-based-resume-optimizer.streamlit.app](https://agentic-ai-based-resume-optimizer.streamlit.app)**
+**Try it here → [agentic-ai-based-resume-optimizer.streamlit.app](https://agentic-ai-based-resume-optimizer1.streamlit.app/)**
 
 Paste any job description and your current resume. The system handles the rest.
 
@@ -238,7 +238,7 @@ MIT World Peace University, Pune
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-shraddha--gidde.netlify.app-2563EB?style=flat-square)](https://shraddha-gidde.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/shraddha-gidde-063506242)
-[![GitHub](https://img.shields.io/badge/GitHub-shraddha--gidde-181717?style=flat-square&logo=github)](https://github.com/shraddha-gidde)
+[![GitHub](https://img.shields.io/badge/GitHub-shraddha--gidde-181717?style=flat-square&logo=github)](https://github.com/Shraddhaaa05)
 
 ---
 
